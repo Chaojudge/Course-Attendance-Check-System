@@ -1,0 +1,5 @@
+F:\C# project\Course Attendance Check System\systemSetting\bin\Debug\systemSetting.dll
+F:\C# project\Course Attendance Check System\systemSetting\bin\Debug\systemSetting.pdb
+F:\C# project\Course Attendance Check System\systemSetting\obj\Debug\systemSetting.dll
+F:\C# project\Course Attendance Check System\systemSetting\obj\Debug\systemSetting.pdb
+F:\C# project\Course Attendance Check System\systemSetting\obj\Debug\systemSetting.csprojResolveAssemblyReference.cache

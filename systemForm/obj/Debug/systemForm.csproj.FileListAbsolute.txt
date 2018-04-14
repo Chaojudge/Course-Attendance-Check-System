@@ -1,0 +1,4 @@
+F:\C# project\Course Attendance Check System\systemForm\bin\Debug\systemForm.dll
+F:\C# project\Course Attendance Check System\systemForm\bin\Debug\systemForm.pdb
+F:\C# project\Course Attendance Check System\systemForm\obj\Debug\systemForm.dll
+F:\C# project\Course Attendance Check System\systemForm\obj\Debug\systemForm.pdb

@@ -1,0 +1,33 @@
+F:\C# project\Course Attendance Check System\Course Attendance Check System\bin\Debug\Course Attendance Check System.exe.config
+F:\C# project\Course Attendance Check System\Course Attendance Check System\bin\Debug\Course Attendance Check System.exe
+F:\C# project\Course Attendance Check System\Course Attendance Check System\bin\Debug\Course Attendance Check System.pdb
+F:\C# project\Course Attendance Check System\Course Attendance Check System\bin\Debug\IrisSkin4.dll
+F:\C# project\Course Attendance Check System\Course Attendance Check System\bin\Debug\MySql.Data.dll
+F:\C# project\Course Attendance Check System\Course Attendance Check System\bin\Debug\Newtonsoft.Json.dll
+F:\C# project\Course Attendance Check System\Course Attendance Check System\bin\Debug\publicClass.dll
+F:\C# project\Course Attendance Check System\Course Attendance Check System\bin\Debug\systemSetting.dll
+F:\C# project\Course Attendance Check System\Course Attendance Check System\bin\Debug\publicClass.pdb
+F:\C# project\Course Attendance Check System\Course Attendance Check System\bin\Debug\systemSetting.pdb
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course Attendance Check System.csprojResolveAssemblyReference.cache
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Interop.Office.dll
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Interop.VBIDE.dll
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course Attendance Check System.csproj.ResolveComReference.cache
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.form_attendance.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.form.Form_attendance.attendance_endCheck.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.form.Form_attendance.attendance_loadStudentList.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.form.Form_attendance.attendance_manualSign.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.form.Form_attendance.attendance_rewardAndPunish.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.form.Form_attendance.attendance_startCheck.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.form_initialize.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.initialize_classTime.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.initialize_dataSource.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.initialize_finish.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.initialize_process.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.initialize_server.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.initialize_statement.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.initialize_welcome.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.form_load.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course_Attendance_Check_System.Properties.Resources.resources
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course Attendance Check System.csproj.GenerateResource.Cache
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course Attendance Check System.exe
+F:\C# project\Course Attendance Check System\Course Attendance Check System\obj\Debug\Course Attendance Check System.pdb

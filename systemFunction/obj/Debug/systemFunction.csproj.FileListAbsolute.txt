@@ -1,0 +1,12 @@
+F:\C# project\Course Attendance Check System\systemFunction\obj\Debug\systemFunction.csprojResolveAssemblyReference.cache
+F:\C# project\Course Attendance Check System\systemFunction\bin\Debug\systemFunction.dll
+F:\C# project\Course Attendance Check System\systemFunction\bin\Debug\systemFunction.pdb
+F:\C# project\Course Attendance Check System\systemFunction\bin\Debug\publicClass.dll
+F:\C# project\Course Attendance Check System\systemFunction\bin\Debug\systemForm.dll
+F:\C# project\Course Attendance Check System\systemFunction\bin\Debug\systemSetting.dll
+F:\C# project\Course Attendance Check System\systemFunction\bin\Debug\MySql.Data.dll
+F:\C# project\Course Attendance Check System\systemFunction\bin\Debug\publicClass.pdb
+F:\C# project\Course Attendance Check System\systemFunction\bin\Debug\systemForm.pdb
+F:\C# project\Course Attendance Check System\systemFunction\bin\Debug\systemSetting.pdb
+F:\C# project\Course Attendance Check System\systemFunction\obj\Debug\systemFunction.dll
+F:\C# project\Course Attendance Check System\systemFunction\obj\Debug\systemFunction.pdb

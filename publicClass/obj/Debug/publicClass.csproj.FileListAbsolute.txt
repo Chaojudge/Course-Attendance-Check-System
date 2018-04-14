@@ -1,0 +1,8 @@
+F:\C# project\Course Attendance Check System\publicClass\bin\Debug\publicClass.dll
+F:\C# project\Course Attendance Check System\publicClass\bin\Debug\publicClass.pdb
+F:\C# project\Course Attendance Check System\publicClass\bin\Debug\MySql.Data.dll
+F:\C# project\Course Attendance Check System\publicClass\bin\Debug\systemSetting.dll
+F:\C# project\Course Attendance Check System\publicClass\bin\Debug\systemSetting.pdb
+F:\C# project\Course Attendance Check System\publicClass\obj\Debug\publicClass.csprojResolveAssemblyReference.cache
+F:\C# project\Course Attendance Check System\publicClass\obj\Debug\publicClass.dll
+F:\C# project\Course Attendance Check System\publicClass\obj\Debug\publicClass.pdb
